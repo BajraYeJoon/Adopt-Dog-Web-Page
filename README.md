@@ -6,6 +6,7 @@ A Login / Register Page that lets you connect with the other dogs that are up fo
 
 ![gif](https://github.com/BajraYeJoon/Adopt-Dog-Web-Page/blob/main/images/page.gif)
 
+![gif](https://github.com/BajraYeJoon/Adopt-Dog-Web-Page/blob/main/images/Login.svg)
 Feel free to contribute to this beginner-friendly JS project .
 
 Steps to Contribute
